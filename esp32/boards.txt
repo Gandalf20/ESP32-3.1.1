@@ -181,6 +181,9 @@ esp32s3N16R8.menu.UploadMode.cdc=USB-OTG CDC (TinyUSB)
 esp32s3N16R8.menu.UploadMode.cdc.upload.use_1200bps_touch=true
 esp32s3N16R8.menu.UploadMode.cdc.upload.wait_for_upload_port=true
 
+esp32s3N16R8.menu.PartitionScheme.app3M_LFS9M_16MB=16M Flash (3MB APP/9.9MB LITTLEFS)
+esp32s3N16R8.menu.PartitionScheme.app3M_LFS9M_16MB.build.partitions=app3M_LFS9M_16MB
+esp32s3N16R8.menu.PartitionScheme.app3M_LFS9M_16MB.upload.maximum_size=3145728
 esp32s3N16R8.menu.PartitionScheme.app3M_fat9M_16MB=16M Flash (3MB APP/9.9MB FATFS)
 esp32s3N16R8.menu.PartitionScheme.app3M_fat9M_16MB.build.partitions=app3M_fat9M_16MB
 esp32s3N16R8.menu.PartitionScheme.app3M_fat9M_16MB.upload.maximum_size=3145728

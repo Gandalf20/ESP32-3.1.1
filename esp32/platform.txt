@@ -29,7 +29,7 @@ tools.xtensa-esp-elf-gdb.path.windows={runtime.platform.path}\xtensa-esp-elf-gdb
 
 tools.esptool_py.path={runtime.platform.path}
 #tools.esptool_py.cmd=esptool
-tools.esptool_py.cmd.linux=tools/esptool_py/esptool
+tools.esptool_py.cmd.linux=tools/esptool_py/esptool2
 tools.esptool_py.cmd.windows=tools\esptool_py\esptool.exe
 
 tools.esptool_py.network_cmd=python3 "{runtime.platform.path}/tools/espota.py" -r
