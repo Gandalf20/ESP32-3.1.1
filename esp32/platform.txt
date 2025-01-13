@@ -9,23 +9,21 @@ tools.esp32-arduino-libs.path.windows={runtime.platform.path}\tools\sdk
 tools.xtensa-esp-elf-gcc.path={runtime.platform.path}/esp-x32
 tools.xtensa-esp-elf-gcc.path.windows={runtime.platform.path}\esp-x32
 #tools.xtensa-esp-elf-gdb.path={runtime.tools.xtensa-esp-elf-gdb.path}
-tools.xtensa-esp-elf-gdb.path={runtime.platform.path}/xtensa-esp-elf-gdb
-tools.xtensa-esp-elf-gdb.path.windows={runtime.platform.path}\xtensa-esp-elf-gdb
+tools.xtensa-esp-elf-gdb.path={runtime.platform.path}/tools/xtensa-esp-elf-gdb
+tools.xtensa-esp-elf-gdb.path.windows={runtime.platform.path}\tools\xtensa-esp-elf-gdb
 #tools.riscv32-esp-elf-gcc.path={runtime.tools.esp-rv32.path}
 tools.riscv32-esp-elf-gcc.path={runtime.platform.path}/esp-rv32
 tools.riscv32-esp-elf-gcc.path.windows={runtime.platform.path}\esp-rv32
 #tools.riscv32-esp-elf-gdb.path={runtime.tools.riscv32-esp-elf-gdb.path}
-tools.riscv32-esp-elf-gdb.path={runtime.platform.path}/riscv32-esp-elf-gdb
-tools.riscv32-esp-elf-gdb.path.windows={runtime.platform.path}\riscv32-esp-elf-gdb
+tools.riscv32-esp-elf-gdb.path={runtime.platform.path}/tools/riscv32-esp-elf-gdb
+tools.riscv32-esp-elf-gdb.path.windows={runtime.platform.path}\tools\riscv32-esp-elf-gdb
 
 tools.xtensa-esp32-elf-gcc.path={runtime.platform.path}/esp-x32
 tools.xtensa-esp32s2-elf-gcc.path={runtime.platform.path}/esp-xs2
 tools.xtensa-esp32s3-elf-gcc.path={runtime.platform.path}/esp-xs3
-tools.xtensa-esp-elf-gdb.path={runtime.platform.path}/xtensa-esp-elf-gdb
 tools.xtensa-esp32-elf-gcc.path.windows={runtime.platform.path}\esp-x32
 tools.xtensa-esp32s2-elf-gcc.path.windows={runtime.platform.path}\esp-xs2
 tools.xtensa-esp32s3-elf-gcc.path.windows={runtime.platform.path}\esp-xs3
-tools.xtensa-esp-elf-gdb.path.windows={runtime.platform.path}\xtensa-esp-elf-gdb
 
 tools.esptool_py.path={runtime.platform.path}
 #tools.esptool_py.cmd=esptool
